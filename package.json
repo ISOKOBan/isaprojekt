@@ -1,0 +1,17 @@
+{
+  "name": "nextjs-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "pnpm": "^9.4.0",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
